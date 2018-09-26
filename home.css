@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+ margin:0px;
+	}
+
+html,body
+{ height:100%;
+	}			
+h1,h2,h3,h4,h5,h6,p
+{ margin-bottom:20px;
+	}
+nav
+{ position:fixed;
+width:100%;
+height:50px;
+background-color:#orage;
+z-index:99;
+text-align:center;
+
+	}
+nav a
+{ text-decoration:none;
+color:#FFF;
+margin-right:30px;
+line-height:50px;
+font-size:25px;
+
+	}	
+nav a:hover
+{ background-color:green;
+color:#000;
+
+	}
+	
+.sect
+{ height:100%;
+background-size:cover;
+background-repeat:no-repeat;
+
+
+	}	
+.subSection
+{ height:32%;
+background-color:rgba(0,0,0,.2);
+
+
+	}	
+.sectOne
+{
+	background-image:url(35675820.jpg);
+}
+.sectTwo
+{ background-image:url(team-2.jpg);
+	`}			
+.sectThree
+{ background-image:url(14639617_1774885376110946_4789602310501462652_n.jpg);
+	`}					
+#para1
+{ font-family:"Comic Sans MS", cursive;
+font-size:20px;
+
+	}
+#para2
+{ font-family:"Comic Sans MS", cursive;
+font-size:20px;
+
+	}	
+#header
+{ width:100%;
+background-color:background-color:rgba(0,0,0,.5);
+	}
